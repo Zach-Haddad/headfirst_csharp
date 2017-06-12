@@ -24,7 +24,7 @@ namespace Contacts
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Contact List written by Zach Haddad", "About");
+            MessageBox.Show("Contact list written by Zach Haddad", "About");
         }
     }
 }
